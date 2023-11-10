@@ -1,0 +1,36 @@
+newmtl Zombie:Zombie_body_bmp_003
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Zombie_body.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl Zombie:Zombie_chomper_bmp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Zombie_chomper.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl Zombie:Zombie_head_bmp_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Zombie_head.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl Zombie:Zombie_leg_bmp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Zombie_leg.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
